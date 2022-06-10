@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name "S4B-PH-K-S_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/S4B-PH-K-S_LF__SN_.lib")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/Libraries/CM4IO-KiCAD/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "USB2524-ABZJ")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/2022-05-02_15-49-29.lib")(options "")(descr ""))
+  (lib (name "SCREEM")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Symbols/SCREEM.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX17634BATP_")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/MAX17634BATP_.lib")(options "")(descr ""))
+  (lib (name "AP2501M8-13")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/AP2501M8-13.lib")(options "")(descr ""))
+  (lib (name "BD2065AFJ-E2")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/BD2065AFJ-E2.lib")(options "")(descr ""))
+  (lib (name "DRTR5V0U4LP16-7")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/DRTR5V0U4LP16-7.lib")(options "")(descr ""))
+  (lib (name "TPD2E1B06DRLR")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/TPD2E1B06DRLR.lib")(options "")(descr ""))
+  (lib (name "ADXL343BCCZ-RL7")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/ADXL343BCCZ-RL7.lib")(options "")(descr ""))
+  (lib (name "MEM2051-00-195-00-A_REVC")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Symbols/MEM2051-00-195-00-A_REVC.lib")(options "")(descr ""))
+)
